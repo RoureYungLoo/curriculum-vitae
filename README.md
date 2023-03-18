@@ -1,6 +1,7 @@
 #### 禄若阳
 
-<div><img src="resume.jpeg" style="zoom: 20%;float: right;"><br/>
+<div><img src="resume.jpeg" style="width: 148px;height: 207px;float: right;"><br/>
+
 
 - 电话：185-3926-8715
 - 邮箱：ruoyang8715@163.com
